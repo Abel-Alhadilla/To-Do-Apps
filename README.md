@@ -6,7 +6,6 @@ A simple to-do application built with vanilla JavaScript.
 
 - Add task
 - Delete task
-- Save task using localStorage
 - Responsive interface
 - scrollable container
 
