@@ -8,6 +8,7 @@ A simple to-do application built with vanilla JavaScript.
 - Delete task
 - Save task using localStorage
 - Responsive interface
+- scrollable container
 
 ## Tech Stack
 
@@ -17,7 +18,9 @@ A simple to-do application built with vanilla JavaScript.
 
 ## Preview
 
-(Add screenshot here)
+## Preview
+
+![Todo App Preview](todo-preview.png)
 
 ## Author
 
