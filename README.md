@@ -1,4 +1,4 @@
-# To-Do Apps ✅
+# To-Do Apps 
 
 A simple to-do application built with vanilla JavaScript.
 
